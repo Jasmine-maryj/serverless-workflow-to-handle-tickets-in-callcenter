@@ -5,6 +5,3 @@ A workflow that describes how you want support tickets to be handled in your cal
 <p align="center">
   <img src="https://github.com/Jasmine-maryj/serverless-workflow-to-handle-tickets-in-callcenter/blob/main/ouput/statemachine.jpg" width="600" alt="state-machine">
 </p>
-<p align="center">
-  <img src="https://github.com/Jasmine-maryj/serverless-workflow-to-handle-tickets-in-callcenter/blob/main/ouput/statemachinewithinput.jpg" width="600" alt="state-machine-with-input">
-</p>
